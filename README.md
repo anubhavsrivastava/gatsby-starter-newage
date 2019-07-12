@@ -38,10 +38,9 @@ Edit `config.js` to put up your details
 
 ```javascript
 module.exports = {
-  siteTitle: 'Gatsby Starter newage', // <title>
+  siteTitle: 'Gatsby Starter Newage', // <title>
   ...
-  heading: 'Gatsby Starter newage',
-  subHeading: 'A Free Bootstrap 4 based Gatsby Starter',
+  heading: 'Gatsby Starter New age',
 };
 
 ```
